@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+vector_db/
+data/pdfs/
+
+.env
+
+.streamlit/secrets.toml
+
+*.faiss
+*.pkl

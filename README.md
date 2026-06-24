@@ -115,7 +115,7 @@ Industrial-Maintenance-Assistant/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Industrial-Maintenance-Assistant.git
+git clone https://github.com/Beshoy-Nagy/Industrial-Maintenance-Assistant.git
 
 cd Industrial-Maintenance-Assistant
 ```
@@ -238,20 +238,6 @@ The assistant can answer questions related to:
 
 ---
 
-## 👨‍💻 Author
-
-**Beshoy Nagy**
-
-AI Engineer | Machine Learning Engineer | Computer Vision Enthusiast
-
-LinkedIn:
-( https://www.linkedin.com/in/beshoy-nagy-4b33a6212/ )
-
-GitHub:
-( https://github.com/Beshoy-Nagy )
-
----
-
 ## Screenshots
 
 ### Home Screen
@@ -265,3 +251,18 @@ GitHub:
 ### Source References
 
 ![Sources](Screenshots/Sources.jpeg)
+
+---
+
+## 👨‍💻 Author
+
+**Beshoy Nagy**
+
+AI Engineer | Machine Learning Engineer | Computer Vision Enthusiast
+
+LinkedIn:
+[Beshoy Nagy](https://www.linkedin.com/in/beshoy-nagy-4b33a6212/)
+
+GitHub:
+[Beshoy-Nagy](https://github.com/Beshoy-Nagy)
+

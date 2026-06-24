@@ -249,3 +249,19 @@ LinkedIn:
 
 GitHub:
 ( https://github.com/Beshoy-Nagy )
+
+---
+
+## Screenshots
+
+### Home Screen
+
+![Home](Screenshots/Home.jpeg)
+
+### Running the Assistant
+
+![Run](Screenshots/Run.jpeg)
+
+### Source References
+
+![Sources](Screenshots/Sources.jpeg)
